@@ -1,0 +1,20 @@
+/* Color Variables */
+:root {
+    --primary: #4361ee;
+    --secondary: #3f37c9;
+  }
+  
+  .editor-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .ql-editor {
+    min-height: 300px;
+  }
+  
+  .ai-chat {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+  }
